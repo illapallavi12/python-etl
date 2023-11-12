@@ -24,5 +24,6 @@ With pip, you can follow this steps:
 
 
 If you want to use poetry instead, you can skip the first 3 steps and run `poetry install`. You need to keep in mind that, to run the code, you'll need to execute: `poetry run python3 main.py`
-
+#illa' version
+-its a good project
 Python version: `3.9.5`
